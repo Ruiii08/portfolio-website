@@ -111,7 +111,7 @@ display: none;
 section{
     padding-top: 3vh;
     height: 100vh;
-    margin: 0 15rem;
+    margin: 0 10rem;
     box-sizing: border-box;
     min-height: fit-content;
 }
